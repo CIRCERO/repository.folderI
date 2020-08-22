@@ -12,3 +12,4 @@
 ### Debugging
 To get the debug logging to work, just set the global kodi logging to true and the debug logging in your addons settings."# repository.folderI" 
 "# repository.folderI" 
+"# repository.folderI" 
